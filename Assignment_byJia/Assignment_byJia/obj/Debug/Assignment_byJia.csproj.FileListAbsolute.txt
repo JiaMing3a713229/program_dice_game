@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\bin\Debug\Assignment_byJia.exe.config
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\bin\Debug\Assignment_byJia.exe
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\bin\Debug\Assignment_byJia.pdb
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.Form1.resources
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.Properties.Resources.resources
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.exe
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.pdb
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.lavel_1.resources
+C:\Users\user\source\repos\Assignment_byJia\Assignment_byJia\obj\Debug\Assignment_byJia.start.resources
