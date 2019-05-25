@@ -83,6 +83,7 @@ namespace Assignment_byJia
         private void Button3_Click(object sender, EventArgs e)
         {
             lavel_11.BringToFront();
+           
         }
 
         private void Lavel_11_Load(object sender, EventArgs e)
@@ -90,9 +91,6 @@ namespace Assignment_byJia
 
         }
 
-        private void Start1_Load(object sender, EventArgs e)
-        {
-
-        }
+      
     }
 }

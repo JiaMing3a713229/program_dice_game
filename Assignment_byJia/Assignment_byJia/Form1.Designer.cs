@@ -1,4 +1,6 @@
-﻿namespace Assignment_byJia
+﻿using System;
+
+namespace Assignment_byJia
 {
     partial class Form1
     {
@@ -33,7 +35,6 @@
             this.button3 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.button4 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel2 = new System.Windows.Forms.Panel();
             this.start1 = new Assignment_byJia.start();
@@ -48,7 +49,6 @@
             this.panel1.Controls.Add(this.button3);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Controls.Add(this.button4);
-            this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel1.Location = new System.Drawing.Point(696, 0);
@@ -87,25 +87,13 @@
             this.button4.FlatAppearance.BorderSize = 0;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button4.Location = new System.Drawing.Point(1, 559);
+            this.button4.Location = new System.Drawing.Point(0, 484);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(297, 69);
             this.button4.TabIndex = 1;
             this.button4.Text = "結束遊戲";
             this.button4.UseVisualStyleBackColor = true;
             this.button4.Click += new System.EventHandler(this.Button4_Click);
-            // 
-            // button2
-            // 
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(-2, 484);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(297, 69);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "載入遊戲";
-            this.button2.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -166,11 +154,15 @@
 
         }
 
+        private void Start1_Load(object sender, EventArgs e)
+        {
+           
+        }
+
         #endregion
 
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Panel panel2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button3;
